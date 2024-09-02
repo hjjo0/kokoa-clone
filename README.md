@@ -1,3 +1,3 @@
 # Kokoa Clone Study
 
-HTML CSS Javascript
+HTML & CSS & Javascript Practice
